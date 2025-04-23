@@ -53,6 +53,4 @@ tailwind.config.ts → Configuration de Tailwind CSS
 tsconfig.json      → Configuration de TypeScript
 next.config.mjs    → Configuration de Next.js
 
-📄 Licence
-----------
-Projet sous licence MIT - libre d’utilisation et de modification.
+
